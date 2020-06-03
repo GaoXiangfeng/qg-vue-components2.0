@@ -1,0 +1,11 @@
+/.idea/*
+/node_modules/*
+/bower_components/*
+/static/*
+/src-examples/*
+/build/*
+/config/*
+
+index.html
+npm-debug.log
+DS_Store*

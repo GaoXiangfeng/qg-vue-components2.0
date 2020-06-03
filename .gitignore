@@ -1,0 +1,15 @@
+/dist/*
+/.idea/*
+/node_modules/*
+/bower_components/*
+/static/*
+/dll/*
+
+package-lock.json
+
+npm-debug.log
+DS_Store*
+
+build/vendor-manifest.json
+
+
